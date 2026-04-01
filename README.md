@@ -82,6 +82,12 @@ https://yeshwanth1953.github.io/Portfolio_Yesh_V1.0/
 
 ---
 
+## 📸 Screenshots
+
+<img width="1919" height="1079" alt="Screenshot 2026-04-01 232204" src="https://github.com/user-attachments/assets/3429bcb1-002c-4ab5-a0eb-8e85c1907692" />
+
+---
+
 ## 🔮 Future Improvements
 
 * ✨ Add animations and transitions
